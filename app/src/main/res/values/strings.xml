@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">悠悠旅行</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_zhuxiao">注销</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_quit">退出</string>
+    
+     <!-- TextView描述-->
+    <string name="TVcreate_blo_cancle">取消</string>
+    <string name="create_blo_title">创建版块</string>
+    <string name="TVcreate_blo_ok">完成</string>
+    <string name="ETcreate_blo_name">版块名称</string>
+    <string name="ETcreate_blo_intro">版块介绍（可选）</string>
+    <string name="create_blo_tip">为版块设置一个图像标识</string>
+    <string name="TVeditinfo_cancle">返回</string>
+    <string name="TVeditinfo_enter">完成</string>
+    <string name="TVeditinfo_title">编辑资料</string>
+    <string name="editinfo_user_name">用户名</string>
+    <string name="tvedit_info_sex">性别</string>
+    <string name="edit_info_nan">男</string>
+    <string name="edit_info_nv">女</string>
+    <string name="editinfo_user_age">年龄</string>
+    <string name="edit_info_birth">出生日期</string>
+    <string name="editinfo_user_city">城市</string>
+    <string name="editinfo_user_mail">邮箱</string>
+    <string name="editinfo_user_mail_hint">待完善</string>
+    <string name="editinfo_user_occup">职业</string>
+    <string name="ETeditinfo_user_occup">待完善</string>
+    <string name="editinfo_user_wantcity">想去城市</string>
+    <string name="ETeditinfo_user_wantcity">待完善</string>
+    
+    
+    
+    <!-- ImageView描述 -->
+    <string name="IMVblock_pic">创建版块图片</string>
+</resources>

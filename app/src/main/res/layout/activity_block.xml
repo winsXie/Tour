@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/LLsearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/ETsearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:drawableLeft="@drawable/search_block"
+            android:padding="10dp" 
+            android:background="@drawable/et_searchblo"
+            android:focusable="false"
+            android:hint="搜索版块"
+            android:textSize="16sp" >
+        </EditText>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/LVblock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/LLsearch"
+        android:divider="@null"
+        android:listSelector="@drawable/list_selector" >
+    </ListView>
+
+    <RelativeLayout
+        android:id="@+id/RLblock_load"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:alpha="0.65"
+        android:background="#808080"
+        android:visibility="gone" >
+
+        <include layout="@layout/loadinglayout" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/RLblock_loadstauts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:visibility="gone" >
+
+        <include layout="@layout/loadtiplayout" />
+    </RelativeLayout>
+
+</RelativeLayout>

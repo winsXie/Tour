@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\menu\\activity_main.xml"
+    }
+]

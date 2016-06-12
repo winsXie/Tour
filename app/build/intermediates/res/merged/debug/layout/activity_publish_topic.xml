@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/RL01"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="#ff495a" >
+
+        <TextView
+            android:id="@+id/TVpublish_topic_cancle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:text="取消"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="发表主题帖"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/TVpublish_topic_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dp"
+            android:gravity="center"
+            android:text="发表"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/LLpublish_topic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/RL01"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/ETpublish_topic_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:background="@null"
+            android:gravity="left|top"
+            android:hint="标题（可选）"
+            android:maxLength="48" >
+        </EditText>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:background="#f2f2f2" />
+
+        <EditText
+            android:id="@+id/ETpublish_topic_content"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="8dp"
+            android:background="@null"
+            android:gravity="left|top"
+            android:maxLength="190" >
+        </EditText>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:background="#f2f2f2" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/IMV_face"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="8dp"
+                android:src="@drawable/face" />
+
+            <GridView
+                android:id="@+id/GV_faces2"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:columnWidth="50dip"
+                android:fadingEdge="none"
+                android:gravity="center"
+                android:numColumns="auto_fit"
+                android:scrollingCache="false"
+                android:stretchMode="columnWidth"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/GVpublish_topic_picture"
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:layout_below="@id/LLpublish_topic"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:horizontalSpacing="3dp"
+        android:numColumns="3"
+        android:scrollbars="none"
+        android:verticalSpacing="5dp" >
+    </GridView>
+
+    <RelativeLayout
+        android:id="@+id/RLexplore_load"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:alpha="0.65"
+        android:background="#808080"
+        android:visibility="gone" >
+
+        <include layout="@layout/loadinglayout" />
+    </RelativeLayout>
+
+</RelativeLayout>

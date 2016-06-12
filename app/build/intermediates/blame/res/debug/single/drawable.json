@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_photo_ok.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\edit_photo_ok.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\et_searchblo.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\et_searchblo.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\relativeselector.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\relativeselector.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_edit_selector.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\login_edit_selector.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_foucs.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\listitem_foucs.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_selector.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\pointer_selector.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_etshape_normal.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\login_etshape_normal.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_disable.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\pointer_disable.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clearlayout.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\clearlayout.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sendmess.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\button_sendmess.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgd_relatly_line.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\bgd_relatly_line.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_photo_del.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\edit_photo_del.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundlayout.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\roundlayout.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pointer_focus.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\pointer_focus.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_nofoucs.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\listitem_nofoucs.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_photo_cancle.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\edit_photo_cancle.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_etshape_focused.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable\\login_etshape_focused.xml"
+    }
+]

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/RLhead"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="#ff495a" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="我的版块"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/RLcreate"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#f5f5f5" >
+
+        <Button
+            android:id="@+id/BUmyblo_create"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/button_selector"
+            android:text="创建版块"
+            android:textColor="#4169E1"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/SVmyblock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/RLcreate"
+        android:layout_below="@id/RLhead"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#DCDCDC"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/TVmyblo_norm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:background="#ffffff"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="正常版块"
+                android:textSize="20sp" />
+
+            <ListView
+                android:id="@+id/LVmyblo_norm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:choiceMode="singleChoice"
+                android:dividerHeight="18dp" >
+            </ListView>
+
+            <TextView
+                android:id="@+id/TVmyblo_ispass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:background="#ffffff"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="待审核"
+                android:textSize="20sp" />
+
+            <ListView
+                android:id="@+id/LVmyblo_ispass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:choiceMode="singleChoice"
+                android:dividerHeight="18sp" >
+            </ListView>
+
+            <TextView
+                android:id="@+id/TVmyblo_forb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:background="#ffffff"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="禁用版块"
+                android:textSize="20sp" />
+
+            <ListView
+                android:id="@+id/LVmyblo_forb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:choiceMode="singleChoice"
+                android:dividerHeight="18sp" >
+            </ListView>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

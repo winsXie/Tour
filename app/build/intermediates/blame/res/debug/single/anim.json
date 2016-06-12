@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in_2.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\anim\\push_bottom_in_2.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_ins.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\anim\\fade_ins.xml"
+    }
+]

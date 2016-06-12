@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f054.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f054.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f099.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f099.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f068.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f068.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f040.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f040.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_error.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\network_error.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f085.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f085.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f007.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f007.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f037.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f037.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\enter.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\enter.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f023.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f023.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f071.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f071.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tratop_background.jpg",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\tratop_background.jpg"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f098.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f098.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f053.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f053.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\denglu.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\denglu.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_topic.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\edit_topic.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mylauncher.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\ic_mylauncher.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f041.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f041.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f006.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f006.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f022.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f022.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f067.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f067.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f086.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f086.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_block.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\search_block.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f008.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f008.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainpage_normal.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\mainpage_normal.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f097.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f097.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f005.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f005.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f010.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f010.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f084.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f084.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainpage_finder_pressed.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\mainpage_finder_pressed.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_data_select.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f021.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f021.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f070.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f070.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f024.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f024.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f073.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f073.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f049.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f049.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f104.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f104.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f019.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f019.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f035.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f035.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f038.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f038.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f012.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f012.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f082.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f082.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chang.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\chang.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f057.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f057.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f079.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f079.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\place.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\place.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\defaultimage.jpg",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\defaultimage.jpg"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f034.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f034.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f018.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f018.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f003.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f003.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_topic.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\top_topic.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f103.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f103.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f060.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f060.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\load_pic.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\load_pic.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f009.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f009.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f056.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f056.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f025.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f025.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f091.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f091.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\face.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sex_man.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\sex_man.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f072.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f072.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f044.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f044.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reply.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\reply.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f028.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f028.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f050.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f050.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f047.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f047.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f069.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f069.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f088.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f088.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f093.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f093.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainpage_block_pressed.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\mainpage_block_pressed.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f029.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f029.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f015.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f015.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.jpg",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhuce.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\zhuce.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f076.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f076.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f031.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f031.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\best_topic.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\best_topic.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reply_flag.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\reply_flag.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_picture.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\default_picture.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f063.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f063.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f100.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f100.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f045.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f045.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\defaultblockimg.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\defaultblockimg.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f094.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f094.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f080.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f080.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f059.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f059.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f014.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f014.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f075.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f075.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f078.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f078.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f089.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f089.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_focused.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f092.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f092.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f013.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f013.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_pic.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\add_pic.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f095.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f095.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f002.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f002.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sex_woman.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\sex_woman.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f027.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f027.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f032.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f032.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f081.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f081.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f016.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f016.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_transparent.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f101.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f101.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f046.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f046.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f062.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f062.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f043.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f043.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f096.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f096.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f051.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f051.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f090.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f090.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainpage_my_normal.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\mainpage_my_normal.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_focused.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f004.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f004.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainpage_block_normal.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\mainpage_block_normal.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f020.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f020.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f065.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f065.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainpage_pressed.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\mainpage_pressed.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f074.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f074.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f026.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f026.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f087.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f087.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f042.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f042.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f048.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f048.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f017.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f017.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f052.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f052.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f011.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f011.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f064.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f064.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f030.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f030.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f083.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f083.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f033.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f033.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f105.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f105.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f061.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f061.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f036.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f036.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f058.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f058.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f039.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f039.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f055.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f055.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainpage_my_pressed.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\mainpage_my_pressed.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainpage_finder_normal.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\mainpage_finder_normal.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f077.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f077.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zan.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\zan.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\brow.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\brow.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f001.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\f001.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\option.png",
+        "source": "F:\\Tour\\app\\src\\main\\res\\drawable-hdpi\\option.png"
+    }
+]

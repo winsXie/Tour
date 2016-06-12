@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/RLtop"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/littlegray"
+        android:focusable="true"
+        android:focusableInTouchMode="true" >
+
+        <Button
+            android:id="@+id/BTsearch"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="3dp"
+            android:background="@drawable/button_selector"
+            android:text="搜  索"
+            android:textColor="#4169E1"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/ETsearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:drawableLeft="@drawable/search_block"
+            android:padding="10dp" 
+            android:background="@drawable/et_searchblo"
+            android:layout_margin="3dp"
+            android:layout_toLeftOf="@id/BTsearch"
+            android:hint="请输入版块名称" 
+            android:textSize="16sp">
+        </EditText>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/LVblock_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/RLtop"
+        android:divider="@null"
+        android:listSelector="@drawable/list_selector" >
+    </ListView>
+
+</RelativeLayout>

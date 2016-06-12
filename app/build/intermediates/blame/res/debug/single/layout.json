@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_reply.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_my_reply.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_plan.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_plan.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_note.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_note.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plan_details.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_plan_details.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_chanheadimg.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_chanheadimg.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_matchplan.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_matchplan.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scanpicture.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_scanpicture.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_grid.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_block.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_create_block.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_grid.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_image_grid.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publishqianm.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_publishqianm.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_cretrat.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_cretrat.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_topic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\my_topic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reply.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_reply.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_my_note.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\header_my_note.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_frame.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\main_frame.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_bucket.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_image_bucket.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_topic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\header_topic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_trat.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_more_trat.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchblock.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_searchblock.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadinglayout.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\loadinglayout.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_traveltopic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_traveltopic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_login.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_login.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pushdetails.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_pushdetails.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_block.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_my_block.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_explore_together.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_explore_together.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_mess_accept.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\my_mess_accept.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_block.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_block.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_block.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_block.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_leavemess.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_leavemess.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish_topic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_publish_topic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_my_unlogin.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\main_my_unlogin.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_topic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_topic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_publish_pic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_publish_pic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_explore.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_explore.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blockinfo.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_blockinfo.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_topic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish_plan.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_publish_plan.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_mymess_accept.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_mymess_accept.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tratopic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_tratopic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_mess_send.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\my_mess_send.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_register.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_register.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_topic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_topic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emotion.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\emotion.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lookuserinfo.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_lookuserinfo.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_bucket.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_image_bucket.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_my_logined.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\main_my_logined.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadtiplayout.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\loadtiplayout.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_reco_topic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_reco_topic.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_note.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\header_note.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_matchplan.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_my_matchplan.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_message.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_message.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_note.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_note.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_plan.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_my_plan.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_reply.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_reply.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_changepwd.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_changepwd.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scanpicview.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\scanpicview.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_block.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_block.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_userinfo.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_edit_userinfo.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_reply.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\my_reply.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_mymess_send.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_mymess_send.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_writenote.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\activity_my_writenote.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_reply.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\header_reply.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_travelnote.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_my_travelnote.xml"
+    },
+    {
+        "merged": "F:\\Tour\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_topic.xml",
+        "source": "F:\\Tour\\app\\src\\main\\res\\layout\\item_my_topic.xml"
+    }
+]

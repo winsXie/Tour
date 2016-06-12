@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ <!--      
+   
+    <item  
+        android:id="@+id/menu_fankui"  
+        android:orderInCategory="3"  
+        android:title="@string/menu_fankui"/>
+         -->
+         <item  
+        android:id="@+id/menu_zhuxiao"  
+        android:orderInCategory="1"  
+        android:title="@string/menu_zhuxiao"/>
+    <item  
+        android:id="@+id/menu_about"  
+        android:orderInCategory="2"  
+        android:title="@string/menu_about"/>  
+    <item  
+        android:id="@+id/menu_quit"  
+        android:orderInCategory="3"  
+        android:title="@string/menu_quit"/>  
+
+</menu>
